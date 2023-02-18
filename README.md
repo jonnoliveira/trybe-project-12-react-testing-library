@@ -52,23 +52,11 @@ Neste projeto realizei testes automatizados utilizando a React Testing Library. 
 
 ## 100% :heavy_check_mark:
 
-![Project-Tests-React-Grade]()
+![Project-Tests-React-Grade](https://github.com/jonnoliveira/trybe-project-12-react-testing-library/blob/main/images/tests-in-react-grade.png)
 
 </details> 
  
 # 
-
-<details>
- 
-<summary>
-
-## 4- Preview
-
-</summary>
-
-![Project-Tests-React-Grade]()
-
-</details>
 
 
 
