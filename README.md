@@ -1,13 +1,74 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# PROJETO 12 - TESTS IN REACT :computer:
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Esse projeto pertence ao módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+ 
+<details>
+ 
+<summary>
+  
+## 1- Resumo
+  
+</summary>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto realizei testes automatizados utilizando a React Testing Library. Com o Stryker pude verificar a consistência dos testes criados quando esses conseguiram detectar as mudanças propositais, ou mutantes, criadas no aplicativo. Bons testes nos ajudam a evitar bugs na aplicação, garantindo que ele funcione corretamente. Outro benefício é poder refatorar o código com a certeza de que o comportamento não mudará. Veja mais abaixo!
+
+</details>
+
+#
+
+<details>
+ 
+<summary>
+ 
+## 2- Requisitos
+
+</summary>
+
+### I. About mutation test.
+
+### II. App mutation test.
+
+### III. FavoritePokemon mutation test.
+
+### IV. NotFound mutation test.
+
+### V. Pokedex mutation test.
+
+### VI. Pokemon mutation test.
+
+### VII. PokemonDetails mutation test.
+
+</details>
+
+# 
+
+<details>
+ 
+<summary>
+
+## 3- Nota do Projeto
+ 
+</summary>
+
+## 100% :heavy_check_mark:
+
+![Project-Tests-React-Grade]()
+
+</details> 
+ 
+# 
+
+<details>
+ 
+<summary>
+
+## 4- Preview
+
+</summary>
+
+![Project-Tests-React-Grade]()
+
+</details>
+
+
+
