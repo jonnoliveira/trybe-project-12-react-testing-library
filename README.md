@@ -36,19 +36,19 @@ Neste projeto realizei testes automatizados utilizando a React Testing Library. 
 
 </summary>
 
-### I. About mutation test.
+* I. About mutation test.
 
-### II. App mutation test.
+* II. App mutation test.
 
-### III. FavoritePokemon mutation test.
+* III. FavoritePokemon mutation test.
 
-### IV. NotFound mutation test.
+* IV. NotFound mutation test.
 
-### V. Pokedex mutation test.
+* V. Pokedex mutation test.
 
-### VI. Pokemon mutation test.
+* VI. Pokemon mutation test.
 
-### VII. PokemonDetails mutation test.
+* VII. PokemonDetails mutation test.
 
 </details>
 
